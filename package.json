@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "前端知识框架",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haitaodesign/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haitaodesign/blog/issues"
+  },
+  "homepage": "https://github.com/haitaodesign/blog#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
