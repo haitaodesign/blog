@@ -14,14 +14,7 @@ module.exports = {
       { text: '项目', link: '/project/' },
       { text: '面试', link: '/interview/' },
       { text: 'Github', link: 'https://github.com/haitaodesign/blog'}
-    ],
-    sidebar: {
-      '/components/': [
-        '',
-        'components-one',
-        'components-two'
-      ]
-    }
+    ]
   },
   port: 8081
 }
