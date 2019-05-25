@@ -12,7 +12,7 @@ module.exports = {
       { text: '框架', link: '/framework/' },
       { text: 'Node', link: '/node/'},
       { text: '项目', link: '/project/' },
-      { text: '面试', link: '/interview/' },
+      { text: '职业规划', link: '/careerPlan/' },
       { text: 'Github', link: 'https://github.com/haitaodesign/blog'}
     ]
   },
