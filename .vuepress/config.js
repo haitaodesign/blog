@@ -14,7 +14,13 @@ module.exports = {
       { text: '项目', link: '/project/' },
       { text: '职业规划', link: '/careerPlan/' },
       { text: 'Github', link: 'https://github.com/haitaodesign/blog'}
-    ]
+    ],
+    sidebar: {
+      '/base/': [
+        '',
+        'html-meta-tag'
+      ]
+    }
   },
   port: 8081
 }
