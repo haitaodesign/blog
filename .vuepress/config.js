@@ -23,5 +23,6 @@ module.exports = {
     }
   },
   port: 8081,
+  base: '/blog/',
   dest: 'docs'
 }
