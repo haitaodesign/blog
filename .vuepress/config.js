@@ -9,10 +9,9 @@ module.exports = {
     nav: [
       { text: '基础', link: '/base/' },
       { text: '进阶', link: '/advanced/' },
-      { text: '框架', link: '/framework/' },
-      { text: 'Node', link: '/node/'},
-      { text: '项目', link: '/project/' },
-      { text: '职业规划', link: '/careerPlan/' },
+      { text: '技术体系', link: '/technology-system/' },
+      { text: '实践', link: '/practice/' },
+      { text: '职业规划', link: '/career-planing/'},
       { text: 'Github', link: 'https://github.com/haitaodesign/blog'}
     ],
     sidebar: {
