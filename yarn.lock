@@ -982,9 +982,9 @@ acorn-dynamic-import@^4.0.0:
   integrity sha1-SCIQFAWCo2uDw+NC4c/ryqkkCUg=
 
 acorn@^6.0.5:
-  version "6.0.5"
-  resolved "http://registry.npm.taobao.org/acorn/download/acorn-6.0.5.tgz#81730c0815f3f3b34d8efa95cb7430965f4d887a"
-  integrity sha1-gXMMCBXz87NNjvqVy3Qwll9NiHo=
+  version "6.4.2"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.2.tgz#35866fd710528e92de10cf06016498e47e39e1e6"
+  integrity sha512-XtGIhXwF8YM8bJhGxG5kXgjkEuNGLTkoYqVE+KMR+aspr4KGYmKYg7yUe3KghyQ9yheNwLnjmzh/7+gfDBmHCQ==
 
 agentkeepalive@^2.2.0:
   version "2.2.0"
